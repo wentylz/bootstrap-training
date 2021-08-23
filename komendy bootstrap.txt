@@ -1,0 +1,5 @@
+d-none - display noone
+d-sm-block - display block
+ Połączenie tych funkcji powoduje że na komórkach zdjęcie się nie wyświetla, a powyżej tak
+
+mb-3 mb-md-0 - margin bottom 3, ale 
